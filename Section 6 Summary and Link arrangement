@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SOPA Labeling Q&A</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 1rem; line-height: 1.6; }
+    h1, h2 { color: #2b6cb0; }
+    a { color: #2b6cb0; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    nav { background: #f0f4f8; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; }
+    section { margin-top: 2rem; }
+    code { background: #f9f2f4; padding: 0.2em 0.4em; border-radius: 4px; }
+  </style>
+</head>
+<body>
+
+  <h1>SOPA Labeling Requirements — Simplified Q&A</h1>
+  <p>This guide provides a summary of labeling requirements from the SOPA Processing Standards.</p>
+
+  <nav>
+    <strong>Jump to a section:</strong>
+    <ul>
+      <li><a href="#6.1">6.1 Use of 'Organic' on Labels</a></li>
+      <li><a href="#6.2">6.2 'In-conversion' Products</a></li>
+      <li><a href="#6.3">6.3 Feedingstuffs & Compound Feeds</a></li>
+      <li><a href="#6.4">6.4 Compulsory Indications</a></li>
+      <li><a href="#6.5">6.5 Transitional Measures</a></li>
+      <li><a href="#6.6">6.6 Labeling for Transport</a></li>
+      <li><a href="#6.7">6.7 Organic & Non-Organic Labels</a></li>
+      <li><a href="#6.8">6.8 Processor & Brand Identification</a></li>
+      <li><a href="#6.9">6.9 Certification Mark</a></li>
+      <li><a href="#6.10">6.10 Imported Products</a></li>
+      <li><a href="#6.11">6.11 Organic Seeds</a></li>
+    </ul>
+  </nav>
+
+  <section id="6.1">
+    <h2>6.1: Use of 'Organic' on Labels</h2>
+    <p>Only products with &gt;95% certified organic ingredients may use "organic" in the product name. Those with less must use it only in the ingredients list. Organic claims must not mislead, and GMOs are prohibited. Each organic ingredient must be clearly identified.</p>
+  </section>
+
+  <section id="6.2">
+    <h2>6.2: 'In-conversion' Products</h2>
+    <p>Must meet a 12-month conversion period, use only one crop ingredient, and include the term “product under conversion to organic farming.” The label must not be more prominent than the product name, and the certifier code must appear.</p>
+  </section>
+
+  <section id="6.3">
+    <h2>6.3: Feedingstuffs & Compound Feeds</h2>
+    <p>Must contain ≥95% organic dry matter. Must state organic, in-conversion, and non-organic percentages, and include: <code>“May be used in organic production in accordance with Regulations (EC) 834/2007 and 889/2008.”</code></p>
+  </section>
+
+  <section id="6.4">
+    <h2>6.4: Compulsory Indications</h2>
+    <p>Includes certifier code (e.g., GB-ORG-17), origin statement (EU/non-EU), and correct use of the EU organic logo. Not allowed for products with &lt;95% organic content or for in-conversion goods.</p>
+  </section>
+
+  <section id="6.5">
+    <h2>6.5: Transitional Measures</h2>
+    <p>Transitional label use is allowed under strict approval and must not imply full organic certification. (See SOPA standards for current specifics.)</p>
+  </section>
+
+  <section id="6.6">
+    <h2>6.6: Labeling for Transport</h2>
+    <p>Products must be sealed and labeled or have documentation that includes operator info, product name, organic status, certifier code, lot ID, and origin.</p>
+  </section>
+
+  <section id="6.7">
+    <h2>6.7: Organic & Non-Organic Labels</h2>
+    <p>Operators selling both must clearly differentiate products and avoid confusion. “Organic” must not be used in company names on non-organic products.</p>
+  </section>
+
+  <section id="6.8">
+    <h2>6.8: Processor & Brand Identification</h2>
+    <p>Labels must name the processor or brand owner. If labeled for a third-party brand, it must be possible to identify the actual processor.</p>
+  </section>
+
+  <section id="6.9">
+    <h2>6.9: Certification Mark</h2>
+    <p>Only products certified by OF&G Scotland to SOPA standards may use the certification mark. Use must include the certifier code and follow display rules.</p>
+  </section>
+
+  <section id="6.10">
+    <h2>6.10: Imported Products</h2>
+    <p>Imported organic labels must include proper certifier codes. Only OF&G-certified products may use their mark. Third-country products must follow EC and UK-specific rules.</p>
+  </section>
+
+  <section id="6.11">
+    <h2>6.11: Organic Seeds</h2>
+    <p>Labels must comply with food rules. Seed mixes must be ≥70% organic and not mix organic/non-organic of the same variety. Must declare organic percentage with specific wording.</p>
+  </section>
+
+</body>
+</html>
